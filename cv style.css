@@ -1,0 +1,130 @@
+
+body {
+    width: 1000px;
+    height: 2075px;
+    padding: 20px;
+    border: 1px solid;
+}
+.avatar {
+   height: 10%;
+   width: 10%;
+    position: absolute;
+}
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.title_1 {
+    margin-left: 150px;
+}
+.title_2 {
+    color: royalblue;
+    margin-left: 150px;
+
+}
+.title_h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.title_h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title_h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    margin-left: 450px;
+    width: 150px;
+    height: 3px;
+    padding: 20px;
+    margin-left: 400px;
+    padding-top: 0px;
+}
+.themes_left {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text_1 {
+    width: 600px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 150px;
+    border: 0px ;
+    padding-top: 0px;
+    border-bottom: 1px solid;
+}
+.list_1 {
+    display: flex;
+    list-style: circle;
+    padding: .5em;
+    font-family: 'Segoe UI';
+}
+.text_2 {
+    width: 600px;
+    height: 700px;
+    padding: 20px;
+    margin-left: 150px;
+    border: 1px ;
+    padding-top: 0px;
+    border-bottom: 1px solid;
+}
+.text_3 {
+    width: 600px;
+    height: 250px;
+    padding: 20px;
+    margin-left: 150px;
+    border: 1px;
+    padding-top: 0px;
+    border-bottom: 1px solid;
+}
+.list_2{
+    list-style: circle;
+    display: flex;
+    font-family: 'Segoe UI';
+}
+.list_2_1 {
+    display: flex;
+    padding-right: 100px;
+    font-family: 'Segoe UI';
+}
+.text_4 {
+    width: 600px;
+    height: 250px;
+    padding: 20px;
+    margin-left: 150px;
+    border: 1px;
+    padding-top: 0px;
+    border-bottom: 1px solid;
+}
+.text_5 {
+    width: 600px;
+    height: 50px;
+    padding: 20px;
+    margin-left: 150px;
+    border: 1px;
+    padding-top: 0px;
+    border-bottom: 1px solid;
+}
+.img_list_1 {
+    display: flex;
+    padding-right: 100px;
+    font-family: 'Segoe UI';
+}
+.img_list_1_1 {
+    display: flex;
+    padding-right: 100px;
+    font-family: 'Segoe UI';
+}
+.text_6 {
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+    margin-left: 150px;
+    border: 1px;
+    padding-top: 0px;
+    border-bottom: 1px solid;
+}
+.list_3 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
