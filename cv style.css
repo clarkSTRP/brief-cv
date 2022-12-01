@@ -22,25 +22,27 @@ body {
     margin-left: 150px;
 
 }
-.title_h2 {
+.title_h2, .title_h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
-.title_h3 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+
 .title_h4 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: right;
-    margin-left: 450px;
-    width: 150px;
-    height: 3px;
-    padding: 20px;
-    margin-left: 400px;
-    padding-top: 0px;
 }
 .themes_left {
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.text_left {
+    text-align: left;
+    display : inline-block;
+    width: 50%;
+}
+.text_right {
+    text-align: right;
+    display : inline-block;
+    width: 50%;
 }
 .text_1 {
     width: 600px;
